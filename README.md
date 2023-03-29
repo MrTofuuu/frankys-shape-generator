@@ -38,9 +38,9 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ### To-Do List
 
-- [] Create CLI class 
-- [] Create Shapes parent class
-- [] Create Circle, Triangle, and Square classes
+- [ ] Create CLI class 
+- [ ] Create Shapes parent class
+- [ ] Create Circle, Triangle, and Square classes
 
 
 ## Mock-Up
